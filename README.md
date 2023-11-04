@@ -4,6 +4,7 @@
 ---
 ### :man_technologist: Обо мне :
 Я Python-разработчик
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
