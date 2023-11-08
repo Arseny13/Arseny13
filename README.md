@@ -1,8 +1,4 @@
-<div id="header" align="center">
-</div>
-
----
-### :man_technologist: Обо мне :
+### Обо мне :
 Я Python-разработчик
 
 ---
