@@ -1,11 +1,11 @@
 ---
 
 ### Обо мне :
-Я Python-разработчик
+Python-разработчик
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -22,6 +22,6 @@
 
 ---
 
-### :fire: Статистика :
- [![GitHub Streak](https://streak-stats.demolab.com?user=Arseny13&hide_total_contributions=true&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+###  Статистика :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arseny13&hide_total_contributions=true&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arseny13&theme=graywhite&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
